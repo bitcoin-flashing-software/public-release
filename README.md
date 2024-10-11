@@ -52,4 +52,4 @@ npm install && npm install electron
 ```sh
 npm start
 ```
-Gas is required for every non-bitcoin flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
+Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
