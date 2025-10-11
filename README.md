@@ -75,3 +75,7 @@ Stay updated through the [official channel](https://t.me/coinflashr_app) for pro
 https://github.com/user-attachments/assets/9547b756-c040-482a-ae68-b4f55a39bf4d
 
 
+https://github.com/user-attachments/assets/9b812739-6576-441a-ad42-89c6f8dc0135
+
+
+
